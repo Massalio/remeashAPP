@@ -3,8 +3,8 @@ const API = {}
 
 // Configuration
 API.config = {
-	// serverRoute: 'http://rocky-headland-53719.herokuapp.com/api/v1'
-	serverRoute: 'http://192.168.2.100:8000/api/v1'
+	serverRoute: 'http://rocky-headland-53719.herokuapp.com/api/v1'
+	// serverRoute: 'http://192.168.2.100:8000/api/v1'
 }
 const headers = {
   'Content-Type': 'application/json',
